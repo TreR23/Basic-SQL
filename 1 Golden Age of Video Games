@@ -1,13 +1,12 @@
 -- Goals for Analysis
--- 1. Discover the oldest business in the world
--- 2. Answer: How many businesses were founded before 1000?
--- 3. Answer: Which businesses were founded before 1000?
--- 4. Exploring the categories
--- 5. Counting the categories
--- 6. Discover: Oldest business by continent
--- 7. Joining everything for further analysis
--- 8. Counting categories by continent
--- 9. Filtering counts by continent and category
+1. Discover: The ten best-selling video games
+2. Find: Missing review scores
+3. List: Years that video game critics loved
+4. Answer: Was 1982 really that great?
+5. Investigate: Years that dropped off the critics' favorites list
+6. Discover: Years video game players loved
+7. Compare: Years that both players and critics loved
+8. List: Sales in the best video game years
 
 -- Begin Analysis
 
