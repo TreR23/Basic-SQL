@@ -1,5 +1,5 @@
 # SQL-Files
-This repository contains various SQL projects I've worked on. 
+This repository contains various SQL projects I've worked on starting on more basic and proceeding to more advanced. 
 
 1. Golden Age of Video Games
 
